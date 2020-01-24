@@ -45,4 +45,4 @@ http.createServer(app).listen(port);
 
 console.log('HTTP Server running on http://%s:%s', ip, port);
 
-module.exports = app;
+module.exports = app
