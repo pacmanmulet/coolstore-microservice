@@ -9,12 +9,14 @@
     "devDependencies": {
         "patternfly": "3.17.0",
         "angular-patternfly": "3.17.0",
-        "bootstrap-switch": "3.3.2",
         "isotope": "2.2.2",
         "imagesloaded": "4.1.1",
         "angular-route": "1.5.10",
         "keycloak": "1.9.8"
     },
     "resolutions": {
+        "angular": "1.5.10",
+        "jquery": "3.4.1",
+        "bootstrap": "4.4.1"
     }
 }
